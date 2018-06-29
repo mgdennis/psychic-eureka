@@ -4,4 +4,4 @@ So, I'm way to old to be learning to code anything. But I will tell myself this 
 
 I'm going to noodle around and see if I can improve myself a bit.
 
-I will build a structure for documentation and links to actual projects.
+I will build a structure for documentation and links to actual projects. Right after I figure out how to build a directory structure.
